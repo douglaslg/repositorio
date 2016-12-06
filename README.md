@@ -1,3 +1,3 @@
 # repositorio
-Meu primeiro repositório.
+Meu repositório.
 Testando...
